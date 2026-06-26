@@ -1,27 +1,150 @@
-# 💫 About Me:
-I am a dedicated and motivated BCA student with a strong interest in web development. I enjoy learning new technologies and building real-world projects using modern tools. I am passionate about improving my coding skills and aim to become a professional full-stack developer.
+<div align="center">
 
+# Hi 👋, I'm Manish Kumar
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/17Xho9K137/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish_kumar_9661) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-9661link) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish966128@gmail.com) 
+### 🚀 Full Stack Web Developer | Laravel • React • PHP
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manish96-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manish96-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish96-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Passionate about building modern web applications with clean code and solving real-world problems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manish96-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Always+Learning+New+Technologies+🚀" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manish96-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manish96-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+* 🎓 BCA Student (2023–2026)
+* 💻 Passionate Full Stack Web Developer
+* 🚀 Specialized in **Laravel, React, PHP, JavaScript & MySQL**
+* 🌱 Currently learning **Python, AWS & System Design**
+* 🤝 Open to collaborating on Open Source & Web Development Projects
+* 💬 Ask me about **Laravel, React, PHP & MySQL**
+* 📫 Reach me at **[manish966128@gmail.com](mailto:manish966128@gmail.com)**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/manish96-code">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/manish-kumar-9661link">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:manish966128@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase,supabase" />
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 Current Projects
+
+* 🌐 **LinkUp** – Modern Social Media Platform
+* 📚 **KitabiAdda** – Online Book Store
+* 🎓 **CampusConnect** – College Management System
+
+---
+
+# 📌 Featured Projects
+
+| Project                      | Description                         | Tech Stack                |
+| ---------------------------- | ----------------------------------- | ------------------------- |
+| 🌐 **LinkUp**                | Modern Social Media Platform        | Laravel • React • Inertia |
+| 📚 **KitabiAdda**            | Online Book Store                   | Laravel • React • Inertia |
+| 🎓 **CampusConnect**         | College Management System           | Laravel • Livewire        |
+| ❤️ **Blood Bank Management** | Blood Donation & Request Management | PHP • MySQL               |
+| 🍽️ **Recipe Finder**        | Search & Save Recipes               | React • REST API          |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manish96-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish96-code&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+* 💻 I enjoy building real-world web applications.
+* 🚀 I love learning new technologies.
+* 📚 Always exploring better development practices.
+* 🎯 My goal is to become a Professional Full Stack Developer.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:manish966128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manish-kumar-9661link">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manish96-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manish96-code&label=Profile%20Views&color=0e75b6&style=flat" />
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
