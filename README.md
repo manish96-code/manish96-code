@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Manish Kumar
+# Hi 👋, I'm Manish
 
 ### 🚀 Full Stack Web Developer | Laravel • React • PHP
 
@@ -14,7 +14,7 @@ Passionate about building modern web applications with clean code and solving re
 
 # 👨‍💻 About Me
 
-* 🎓 BCA Student (2023–2026)
+* 🎓 Aspiring Full Stack Developer with a strong foundation in Computer Applications
 * 💻 Passionate Full Stack Web Developer
 * 🚀 Specialized in **Laravel, React, PHP, JavaScript & MySQL**
 * 🌱 Currently learning **Python, AWS & System Design**
