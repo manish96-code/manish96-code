@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Web Developer | Laravel • React • PHP
 
-Passionate about building modern web applications with clean code and solving real-world problems.
+Building scalable web applications with clean architecture and modern technologies.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Always+Learning+New+Technologies+🚀" />
 
@@ -14,19 +14,18 @@ Passionate about building modern web applications with clean code and solving re
 
 # 👨‍💻 About Me
 
-* 🎓 Aspiring Full Stack Developer with a strong foundation in Computer Applications
-* 💻 Passionate Full Stack Web Developer
-* 🚀 Specialized in **Laravel, React, PHP, JavaScript & MySQL**
-* 🌱 Currently learning **Python, AWS & System Design**
-* 🤝 Open to collaborating on Open Source & Web Development Projects
-* 💬 Ask me about **Laravel, React, PHP & MySQL**
-* 📫 Reach me at **[manish966128@gmail.com](mailto:manish966128@gmail.com)**
+- 💻 Full Stack Web Developer specializing in Laravel, React, PHP & MySQL
+- 🚀 Passionate about building scalable web applications and SaaS products
+- 🌱 Currently learning Python, AWS & System Design
+- 🤝 Open to collaborating on Open Source and Web Development projects
+- 💬 Ask me about Laravel, React, PHP, JavaScript & REST APIs
+- 📫 Reach me at **manish966128@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/manish96-code">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
@@ -78,44 +77,54 @@ Passionate about building modern web applications with clean code and solving re
 
 ---
 
-# 🚀 Current Projects
-
-* 🌐 **LinkUp** – Modern Social Media Platform
-* 📚 **KitabiAdda** – Online Book Store
-* 🎓 **CampusConnect** – College Management System
-
----
-
 # 📌 Featured Projects
 
-| Project                      | Description                         | Tech Stack                |
-| ---------------------------- | ----------------------------------- | ------------------------- |
-| 🌐 **LinkUp**                | Modern Social Media Platform        | Laravel • React • Inertia |
-| 📚 **KitabiAdda**            | Online Book Store                   | Laravel • React • Inertia |
-| 🎓 **CampusConnect**         | College Management System           | Laravel • Livewire        |
-| ❤️ **Blood Bank Management** | Blood Donation & Request Management | PHP • MySQL               |
-| 🍽️ **Recipe Finder**        | Search & Save Recipes               | React • REST API          |
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 💪 **GymMitra** | Multi-Tenant Gym Management SaaS with Memberships, QR Attendance, Billing, Trainer Management, Equipment Tracking, Email Campaigns and Role-Based Access Control | Laravel • React • Inertia • MySQL |
+| 🌐 **LinkUp** | Modern Social Media Platform with authentication, posts, comments, likes and user profiles | Laravel • React • Inertia |
+| 📚 **KitabiAdda** | Multi-Vendor Online Book Store with shopping cart, secure checkout, order management and advanced search | Laravel • React • Inertia |
+| 🎓 **CampusConnect** | College Management System for managing students, faculty, attendance and academic records | Laravel • Livewire |
+| ❤️ **Blood Bank Management** | Blood Donation & Request Management System connecting donors with hospitals and patients | PHP • MySQL |
+| 🍽️ **Recipe Finder** | Search, discover and save recipes using a REST API with responsive UI | React • REST API |
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manish96-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish96-code&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish96-code&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manish96-code&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manish96-code&theme=github_dark"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Facts
+# 📈 Contribution Graph
 
-* 💻 I enjoy building real-world web applications.
-* 🚀 I love learning new technologies.
-* 📚 Always exploring better development practices.
-* 🎯 My goal is to become a Professional Full Stack Developer.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish96-code&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 What I Build
+
+- 🚀 SaaS Applications
+- 🌐 Full Stack Web Applications
+- ⚡ REST APIs
+- 🔐 Authentication Systems
+- 📊 Admin Dashboards
+- 🏢 Multi-Tenant Applications
 
 ---
 
@@ -144,6 +153,8 @@ Passionate about building modern web applications with clean code and solving re
 <img src="https://komarev.com/ghpvc/?username=manish96-code&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ### ⭐ Thanks for visiting my profile!
+
+Let's build something amazing together 🚀
 
 *"Code. Learn. Build. Repeat."* 🚀
 
