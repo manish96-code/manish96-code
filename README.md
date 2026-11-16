@@ -99,6 +99,12 @@ Building scalable web applications with clean architecture and modern technologi
 
 <p align="center">
 
+<img src="https://streak-stats.demolab.com?user=manish96-code&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+
+</p>
+
+<p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manish96-code&theme=github_dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manish96-code&theme=github_dark"/>
